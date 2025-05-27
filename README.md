@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/c5aefeb6-602c-4f15-ab92-fbbdded9612d""/>
-    <a href="https://zenn.dev/yamamoto99">
-        <img src="https://github-sns-profile-card-e53bc5obaa-an.a.run.app/svg?platform=zenn&userid=Tsuchiya0436" alt="Zenn Profile"/>
-    </a>
-</p>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yamamoto99&count_private=true&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yamamoto99&count_private=true&theme=github_dark"/>
+</div>
 <!--
 **Tsuchiya0436/Tsuchiya0436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
