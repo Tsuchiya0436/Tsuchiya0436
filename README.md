@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/UH8p44pf5VNXa/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/UH8p44pf5VNXa/giphy.gif" width="200"/>
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsuchiya0436&count_private=true&theme=github_dark"/>
 </div>
 
-### 🛠️ スキル・技術スタック
+### スキル・技術スタック
 
 <p align="left">
   <strong>Frontend:</strong><br>
