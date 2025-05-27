@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yamamoto99&count_private=true&theme=github_dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yamamoto99&count_private=true&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsuchiya0435&count_private=true&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsuchiya0436&count_private=true&theme=github_dark"/>
 </div>
 <!--
 **Tsuchiya0436/Tsuchiya0436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
