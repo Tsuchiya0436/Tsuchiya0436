@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/UH8p44pf5VNXa/giphy.gif" alt="キーボードを打つ猫のGIF" width="400"/>
+  <img src="https://media0.giphy.com/media/UH8p44pf5VNXa/giphy.gif" width="100"/>
 </div>
 
 <div align="center">
