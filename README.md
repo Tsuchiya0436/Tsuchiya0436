@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 <div align="center">
+  <img src="https://media0.giphy.com/media/UH8p44pf5VNXa/giphy.gif" alt="キーボードを打つ猫のGIF" width="400"/>
+</div>
+
+<div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsuchiya0436&count_private=true&theme=github_dark"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsuchiya0436&count_private=true&theme=github_dark"/>
 </div>
