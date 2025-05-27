@@ -4,6 +4,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsuchiya0436&count_private=true&theme=github_dark"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsuchiya0436&count_private=true&theme=github_dark"/>
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tsuchiya0436&show_icons=true&theme=github_dark&count_private=true" />
 <!--
 **Tsuchiya0436/Tsuchiya0436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
